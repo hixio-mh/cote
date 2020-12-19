@@ -35,7 +35,7 @@
     "@dashersw/axon": "2.0.5",
     "@dashersw/node-discover": "^0.7.1",
     "charm": "1.0.2",
-    "colors": "1.1.2",
+    "colors": "1.4.0",
     "eventemitter2": "4.1.0",
     "lodash": "4.17.4",
     "portfinder": "1.0.13",
