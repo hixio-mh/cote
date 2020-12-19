@@ -40,7 +40,7 @@
     "lodash": "4.17.4",
     "portfinder": "1.0.13",
     "socket.io": "2.0.3",
-    "uuid": "^3.1.0"
+    "uuid": "^3.4.0"
   },
   "devDependencies": {
     "async": "^2.5.0",
